@@ -1,6 +1,6 @@
 ## Hi there! 👋  This is a KOI🐠's Homepage🪸🪸🪸
-### This is ZiXuanJamie's homepage 
 
+### This is ZiXuanJamie's homepage 
 <!--
 **ZiXuanJamie/ZiXuanJamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: QQ / Wechat
 - 😄 Pronouns: Koi
 - ⚡ Fun fact: I have many repos in fact
+
 
 ![Metrics](/github-metrics.svg)
 
