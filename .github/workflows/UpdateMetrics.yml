@@ -14,4 +14,4 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: ZiXuanJamie/metrics@latest
+      - uses: lowlighter/metrics@latest
