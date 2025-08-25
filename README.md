@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with othera
 - 💬 Don't ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: Email
+- 😄 Pronouns: None
 - ⚡ Fun fact: This is my profile
 
 
