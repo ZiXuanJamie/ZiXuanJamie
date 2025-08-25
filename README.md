@@ -1,4 +1,4 @@
-## Hi there! 👋  This is a KOI🐠's Homepage🪸🪸🪸
+## Hi there! 👋 
 
 ### This is ZiXuanJamie's homepage 
 <!--
