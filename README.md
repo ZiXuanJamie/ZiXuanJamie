@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C# / C++
 - 🌱 I’m currently learning Python / Java
 - 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with Michael
+- 🤔 I’m looking for help with othera
 - 💬 Don't ask me about anything
-- 📫 How to reach me: QQ / Wechat
-- 😄 Pronouns: Koi
-- ⚡ Fun fact: I have many repos in fact
+- 📫 How to reach me: No way
+- 😄 Pronouns: None
+- ⚡ Fun fact: This is my profile
 
 
 ![Metrics](/github-metrics.svg)
