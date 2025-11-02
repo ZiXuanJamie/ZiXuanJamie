@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on C# / C++
-- 🌱 I’m currently learning Python / Java
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with othera
-- 💬 Don't ask me about anything
-- 📫 How to reach me: Email
-- 😄 Pronouns: None
-- ⚡ Fun fact: This is my profile
+- 🔭 I’m currently working on dotnet
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on something interesting
+- 🤔 I’m looking for help with Assembly
+- 💬 Ask me about how operating systems work
+- 📫 How to reach me: email and phone number
+- 😄 Pronouns: this is a secret
+- ⚡ Fun fact: there should be something here
 
 
 ![Metrics](/github-metrics.svg)
