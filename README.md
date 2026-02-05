@@ -29,7 +29,3 @@ Here are some ideas to get you started:
 ![Metrics](/github-metrics.svg)
 
 ![FullYearCalendar](/metrics.plugin.isocalendar.fullyear.svg)
-
-![ZiXuanJamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiXuanJamie)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiXuanJamie)
